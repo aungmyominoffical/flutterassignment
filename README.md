@@ -1,8 +1,25 @@
-# flutterassignment
+# Fibonacci Scroll App
 
-A new Flutter project.
+A Flutter application that displays Fibonacci numbers with interactive features.
+
+## Prerequisites
+
+Before running the application, ensure you have the following installed:
+
+1. Flutter SDK (latest stable version)
+2. Dart SDK
+3. iOS Simulator (for Mac) or Android Emulator
+4. VS Code or Android Studio (with Flutter plugins)
 
 ## Getting Started
+
+Follow these steps to run the application:
+
+1. Clone the repository:
+```bash
+git clone <repository-url>
+cd flutterassignment
+```
 
 This project is a starting point for a Flutter application.
 
